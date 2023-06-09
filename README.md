@@ -6,7 +6,7 @@ Starts the game with the Diverse custom modifier, which allows you to get cards 
 
 # Installation Instructions
 
-[Download from Steam Workshop]().
+[Download from Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2986743516).
 
 # Development Setup
 
