@@ -2,12 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.deengames</groupId>
-    <artifactId>slaythespire.extraEnergy</artifactId>
-    <version>v1.2.0</version>
+    <artifactId>slaythespire.diverse</artifactId>
+    <version>v1.0.0</version>
     <packaging>jar</packaging>
 
     <name>Extra Energy</name>
-    <description>Start the game with 4 energy instead of 3.</description>
+    <description>Slay the Spire mod that adds the Diverse modifier to your runs.</description>
 
     <dependencies>
         <dependency>

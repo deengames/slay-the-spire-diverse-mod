@@ -1,12 +1,12 @@
-# Slay The Spire: Extra Energy
+# Slay The Spire: Diverse
 
 ![](media/screenshot.png)
 
-Feeling tired? Need more energy? Now you can start the game with four energy instead of three!
+Starts the game with the Diverse custom modifier, which allows you to get cards of any colour.
 
 # Installation Instructions
 
-[Download from Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2977410511).
+[Download from Steam Workshop]().
 
 # Development Setup
 

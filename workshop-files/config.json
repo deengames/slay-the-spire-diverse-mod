@@ -1,13 +1,6 @@
 {
-  "steamPublishedID": "2977410511",
-  "title": "Extra Energy",
-  "description": "Start the game with four energy instead of three.",
+  "title": "Diverse",
+  "description": "Slay the Spire mod that adds the Diverse modifier to your runs.",
   "visibility": "public",
   "changeNote": "",
-  "tags": [
-    "easy",
-    "Deen Games",
-    "deengames",
-    "energy"
-  ]
-}
+  "tags": ["Deen Games", "deengames", "diverse", "modifier", "custom modifier"]
